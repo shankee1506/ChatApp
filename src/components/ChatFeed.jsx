@@ -1,7 +1,8 @@
 import React from 'react';
 import MyMessage from './MyMessage';
 import TheirMessage from './ThierMessage';
-import MessagForm from './MessageForm';
+import MessageForm from './MessageForm';
+
 
 function ChatFeed(props) {
     
